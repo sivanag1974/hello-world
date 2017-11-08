@@ -1,2 +1,2 @@
 # hello-world
-# Just folling github instructions.
+# Just following github instructions.
